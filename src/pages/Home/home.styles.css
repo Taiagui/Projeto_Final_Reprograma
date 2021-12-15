@@ -1,12 +1,64 @@
 .texto {
-  height: 280px;
+  height: 100px;
+  margin: 0%;
+  padding: 0% 0% 0% 11%;
+  display: inline-block;
+}
+.image {
+  display: flex;
 }
 
-.texto h3 {
+.textovisual {
+  text-align: justify;
+  margin: 2%;
+  width: 100%;
+  font-size: 26px;
+}
+
+.containerButton {
+  height: 15em;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  cursor: auto;
+}
+
+.botaocadastro {
+  border: 1px solid rgb(80, 96, 152);
+  border-radius: 35px;
+  color: rgb(80, 96, 152);
+  text-decoration: none;
   text-align: center;
-  text-justify: auto;
-  margin: 280px auto;
-  width: 550px;
-  font-weight: 600;
-  font-size: 24px;
+  font-size: 34px;
+  cursor: inherit;
+  font-family: 'Outfit';
+  font-weight: bold;
+}
+
+.logoImagem {
+height: 40%;
+width: 30%;
+position: absolute;
+margin: 5%;
+}
+
+.blocoGrandeCadastro{
+    height: 100%;
+    width: 100%;
+}
+
+.blocosCadastro{
+  display: flex;
+  margin: 16% 5% 5% 5%;
+  padding: 5%;
+}
+
+.imgBloco{
+  width: 60%;
+}
+
+.comoFunciona{
+  align-items: center;
 }

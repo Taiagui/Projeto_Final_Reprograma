@@ -1,0 +1,42 @@
+.texto {
+  height: 100px;
+  margin: 0%;
+  padding: 0% 0% 0% 11%;
+  display: inline-block;
+  text-align: justify;
+  margin: 2%;
+  width: 85%;
+  font-size: 26px;
+  font-size: 26px;
+}
+.image {
+  display: flex;
+}
+
+.imgHeader {
+  padding: 0% 20% 0% 20%;
+}
+
+.main {
+  display: block;
+  margin: 40px auto;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 300px;
+}
+
+
+.botaocadastro {
+  border: 1px solid rgb(80, 96, 152);
+  border-radius: 35px;
+  color: rgb(80, 96, 152);
+  text-decoration: none;
+  padding: 10px 60px;
+  text-align: center;
+  font-size: 34px;
+  cursor: inherit;
+  font-family: 'Outfit';
+  font-weight: bold;
+
+}

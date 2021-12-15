@@ -1,8 +1,7 @@
-import { TiSocialGithub, TiSocialLinkedin} from 'react-icons/ti'
 import Header from '../../components/Header/Header'
 import Menu from '../../components/Menu/Menu'
-import ImageContato from '../../assets/contato.svg'
 import Footer from '../../components/Footer/Footer'
+import imagemContato from '../../assets/topoTodos.jpg'
 
 import './contato.styles.css'
 
@@ -10,22 +9,37 @@ const Contato = () => {
  return (
    <>
     <Menu />
-    <Header image={ImageContato}>Chama no contatinho</Header>
-    <div className="redes-sociais">
-      <p className="siga">Siga-me nas redes sociais:</p>
-      <p>contato@simaraconceicao</p>
-      <div>
-        <a href="https://github.com/simaraconceicao" target="_blank" rel="noreferrer">
-          <TiSocialGithub size={90} color="rgb(56, 56, 56)"/>
-        </a>
-        <a href="https://linkedin.com/in/simaraconceicao" target="_blank" rel="noreferrer">
-          <TiSocialLinkedin size={90} color="rgb(56, 56, 56)"/>
-        </a>
-      </div>
+    <Header className="topoContato" image={imagemContato}></Header>
+    
+    <div className="contatoForm">
+    <form className="labelForm">
+  <label>
+    <div>
+    <b>Seu nome</b>  (obrigatório)
+    </div>
+    <input type="text" name="Nome" />
+  </label>
+  <label>
+    <div>
+    <b>E-mail</b>  (obrigatório)
+    </div>
+    <input type="email" name="E-mail" />
+  </label>
+  <label>
+    <b>Assunto</b>
+    <input type="text" name="Assunto" />
+  </label>
+  <label>
+    <b>Sua mensagem</b>
+    <textarea rows="5">
+Escreva aqui sua mensagem
+</textarea>
+  </label>
+  <input type="submit" value="Enviar" />
+</form>
     </div>
     <Footer />
   </>
- )
-}
+  )}
 
-export default Contato 
+export default Contato

@@ -5,5 +5,8 @@
 }
 
 body, input, button, textarea{
-  font: 600 18px Nunito, sans-serif;
+  font-family: 'Outfit';
+  font-size: 18px;
+  font-weight: normal;
+
 }

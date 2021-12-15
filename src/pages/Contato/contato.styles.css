@@ -1,20 +1,30 @@
-.redes-sociais {
+.header img {
+  width: 100%;
+}
+.footer {
+  background-color: rgb(80, 96, 152);
+  color: rgb(255, 255, 255);
+  text-align: center;
+  height: 50px;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding-top: 10px;
+}
+
+.contatoForm {
   display: flex;
-  flex-direction: column;
   justify-content: center;
-  align-items: center;
-  text-align: center;
-  text-justify: auto;
-  width: 550px;
-  height: 350px;
-  font-size: 24px;
-  margin: 40px auto;
+
 }
 
-.redes-sociais p {
-  text-align: center;
-}
+label {
+  display: grid;
+  margin: 10px auto;
+  }
 
-.siga {
-  font-size: 36px;
-}
+  .labelForm {
+    width: 70%;
+    margin-top: 4%;
+    margin-bottom: 6%;
+  }
