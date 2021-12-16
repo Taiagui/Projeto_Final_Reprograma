@@ -2,7 +2,7 @@
   width: 100%;
 }
 .footer {
-  background-color: rgb(80, 96, 152);
+  background-color: rgb(79, 67, 149);
   color: rgb(255, 255, 255);
   text-align: center;
   height: 50px;
@@ -25,6 +25,5 @@ label {
 
   .labelForm {
     width: 70%;
-    margin-top: 4%;
-    margin-bottom: 6%;
+    margin-bottom: 8%;
   }
