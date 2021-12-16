@@ -9,7 +9,13 @@ const contacaoDeHistorias = () => {
   return(
     <>
       <Menu />
-      <Header image={ImagemContacao}>Meus projetos</Header>
+      <Header image={ImagemContacao}></Header>
+      <p>
+        ....
+      </p>
+      <p>
+        ....
+      </p>
       <Footer />
     </>
   )

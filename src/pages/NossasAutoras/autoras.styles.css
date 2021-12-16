@@ -1,5 +1,30 @@
-.container {
-  display: grid;
-  grid-column-gap: 16px;
-  grid-row-gap: 16px;
+.header img {
+  width: 100%;
+}
+.footer {
+  background-color: rgb(80, 96, 152);
+  color: rgb(255, 255, 255);
+  text-align: center;
+  height: 50px;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding-top: 10px;
+}
+  
+  .todasAutoras {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .imagemLivros {
+    width: 10px;
+  }
+  
+  ul li {
+  width: 10%;
+  }
+  
+  .blocoAutoras {
+    max-width: 300px;
   }
