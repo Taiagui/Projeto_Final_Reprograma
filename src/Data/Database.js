@@ -2,117 +2,107 @@ const autoras = [
 {
     id: 1,
     autora: "Adriana Carranca",
-    capa: "https://images-na.ssl-images-amazon.com/images/I/9164WeAYFsL.jpg"
+    capa: "https://cdl-static.s3-sa-east-1.amazonaws.com/colaboradores/03298_gg.jpg"
 },
 {
     id: 2,
-    autora: "Eleanor H. Porter",
-    capa: "https://a-static.mlcdn.com.br/1500x1500/kit-02-livros-pollyanna-e-pollyanna-moca-pe-da-letra/livrariacristaemmerick/3948p/75127b3f35ed69dfd7a4f1d4d1232a5d.jpg"
+    autora: "Adriana Falcão",
+    capa:"https://revistatrip.uol.com.br/dados/tpm/_imgBank/0x0x350x518x0x0/tpm84-vermelhas-001.jpg"
 },
 {
     id: 3,
-    autora: "J. K. Rowling",
-    capa:"https://a-static.mlcdn.com.br/618x463/livro-harry-potter-e-a-pedra-filosofal-volume-1-j-k-rowling-rocco/garshoplivrosecia/5893897467/8ee8a0fd7788b33a9e67413ade2d3844.jpg"
+    autora: "Ana Maria Machado",
+    capa:"https://cdl-static.s3-sa-east-1.amazonaws.com/colaboradores/01409_gg.jpg"
 },
 {
     id: 4,
-    autora: "Adriana Falcão",
-    capa:"https://www.moderna.com.br/data/files/A4/A4/1A/38/EA156710A14BC46728A808A8/Luna_clara_md.jpg"
+    autora: "Cléo Busatto",
+    capa:"https://static.wixstatic.com/media/20653c_1932e51f210a416687e343b2aa373bd6.jpg_srz_320_320_75_22_0.5_1.20_0.00_jpg_srz"
+},
+{
+    id: 5,
+    autora: "Fernanda Lopes de Almeida",
+    capa:"http://www.editoraprojeto.com.br/wp-content/uploads/elementor/thumbs/Feernanda-Lopes-de-Almeida-ob8tdhzrxdc7bz25tfbybxq0u6hvp9okhf8v2bet0u.jpg"
 },
 {
     id: 6,
-    autora: "Ana Maria Machado",
-    capa:"https://http2.mlstatic.com/D_NQ_NP_762481-MLB45630426633_042021-O.jpg"
+    autora: "Jaqueline Conte",
+    capa:"http://www.mercadolivros.net.br/wp-content/uploads/2016/11/jaqueline-conte-e1479727269198.jpg"
 },
 {
     id: 7,
-    autora: "Cléo Busatto",
-    capa:"https://cleobusatto.com.br/wp-content/uploads/2021/04/quatro-historias_1a_capa.jpg"
+    autora: "Lygia Bojunga",
+    capa:"http://3.bp.blogspot.com/-Wu_3CNxnk-U/UvrCyliZfAI/AAAAAAAAAQA/jtTQyPu5oVo/s1600/lygia+bojunga+2.jpg"
 },
 {
     id: 8,
-    autora: "Fernanda Lopes de Almeida",
-    capa:"https://megaleitores.com.br/images/livros/fernanda-lopes-de-almeida/tica/a-fada-que-tinha-ideias/4192/9788508108435-fernanda-lopes-de-almeida-tica-a-fada-que-tinha-ideias-0-540x728.jpg"
+    autora: "Ruth Rocha",
+    capa:"https://images.quatrocincoum.com.br/240/articles-5NTHEfHEdNrH1Qx.jpg"
 },
 {
     id: 9,
-    autora: "Jaqueline Conte",
-    capa:"https://www.livrariapanapana.com.br/wp-content/uploads/2018/06/na-casa-amarela.jpg"
+    autora: "Cidinha da Silva",
+    capa:"https://images.quatrocincoum.com.br/240/articles-sm7MYjXI28Vlx3o.jpg"
 },
 {
     id: 10,
-    autora: "Lygia Bojunga",
-    capa:"https://megaleitores.com.br/images/livros/lygia-bojunga/agir/a-bolsa-amarela/66052/8522004056-lygia-bojunga-agir-a-bolsa-amarela-5dd6a31339729-540x728.jpg"
+    autora: "Sonia Rosa",
+    capa:"http://www.rovelle.com.br/DynamicItems/Files/8a60c209-c440-418a-88a4-82390a8e6818Sonia_Rosa_acervo_pessoal_Karen_Navega_W.jpg"
 },
 {
     id: 11,
-    autora: "Ruth Rocha",
-    capa:"https://estillomania.com.br/wp-content/uploads/2015/11/romeu_e_julieta.jpg"
+    autora: "Helga Bansch",
+    capa:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlYpwP3cSL4pwEwHe0JzfwNIzNqb9p_xE4_2Qt-iLCMBdvTGYiBxuCc2xxMzcAsXob-bc&usqp=CAU"
 },
 {
     id: 12,
-    autora: "Cidinha da Silva",
-    capa:"https://img.travessa.com.br/livro/GR/77/776e6ddf-e644-457b-911f-f0fe22674604.jpg"
+    autora: "Rosane Pamplona",
+    capa:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxCP08xz_yGxwfpDfghEMfW0Y7MlGiZKONgBCyzocaV83vNDSjVmkqf5CChxBW-XbEzss&usqp=CAU"
 },
 {
     id: 13,
-    autora: "Sonia Rosa",
-    capa:"https://images.tcdn.com.br/img/img_prod/571854/os_tesouros_de_monifa_245_1_20190603185623.png"
+    autora: "Janaína Tokitaka",
+    capa:"http://www.editoraprojeto.com.br/wp-content/uploads/2016/02/JanainaTokitaka-216x300.jpg"
 },
 {
     id: 14,
-    autora: "Helga Bansch",
-    capa:"https://images.tcdn.com.br/img/img_prod/571854/amelia_e_o_peixe_375_1_20190603185630.jpg"
+    autora: "Luciana Sandroni",
+    capa:"https://www.pallaseditora.com.br/admin/_m2brupload/autores/132/372_max.jpg"
 },
 {
     id: 15,
-    autora: "Rosane Pamplona",
-    capa:"https://images.tcdn.com.br/img/img_prod/571854/a_princesa_que_tudo_sabia_menos_uma_coisa_215_1_20190603185621.png"
+    autora: "Joanna Harrison",
+    capa:"https://quindim.com.br/blog/wp-content/uploads/2021/10/quando-mamae-virou-um-monstro.jpg"
 },
 {
     id: 16,
-    autora: "Janaína Tokitaka",
-    capa:"https://images.tcdn.com.br/img/img_prod/571854/a_arvore_os_tres_caminhos_303_1_20190603185602.png"
+    autora: "Silvana Rando",
+    capa:"https://img.jornalcruzeiro.com.br/img/2013/07/12/media/119112_1.jpg"
 },
 {
     id: 17,
-    autora: "Luciana Sandroni",
-    capa:"https://images.tcdn.com.br/img/img_prod/571854/era_uma_vez_20_16161527_1_20190921222644.jpg"
+    autora: "Thalita Rebouças",
+    capa:"https://www.editoraarqueiro.com.br/media/upload/autor/thalita_reboucas_2.jpg.180x270_q85_upscale.jpg"
 },
 {
     id: 18,
-    autora: "Joanna Harrison",
-    capa:"https://images.tcdn.com.br/img/img_prod/571854/quando_mamae_virou_um_monstro_223_1_20190603185622.png"
+    autora: "Neusa Baptista Pinto",
+    capa:"https://www.cp2.g12.br/blog/tijuca1/files/2020/11/BI222.png"
 },
 {
     id: 19,
-    autora: "Silvana Rando",
-    capa:"https://images.tcdn.com.br/img/img_prod/571854/o_incrivel_livro_do_gildo_16161570_1_20200727130823.jpg"
+    autora: "Elisa Lucinda",
+    capa:"https://turinha-static.pkds.it/blog/production/2018/06/11114835/Elisa-Lucinda-300x300.jpg"
 },
 {
     id: 20,
-    autora: "Thalita Rebouças",
-    capa:"http://nodeoito.com/wp-content/uploads/2016/07/download.png"
+    autora: "Kiusam de Oliveira",
+    capa:"https://turinha-static.pkds.it/blog/production/2018/06/11114832/Kiusam-de-Oliveira-300x232.jpg"
 },
 {
-    id: 21,
-    autora: "Neusa Baptista Pinto",
-    capa:"http://nodeoito.com/wp-content/uploads/2016/07/531767_cabelo-ruim-a-historia-de-tres-meninas-aprendendo-a-se-aceitar-696796_L1-1.jpg"
-},
-{
-    id: 22,
-    autora: "Gercilga Almeida",
-    capa:"http://nodeoito.com/wp-content/uploads/2016/07/ArquivoExibir.jpg"
-},
-{
-    id: 23,
-    autora: "Rachel Isadora",
-    capa:"http://nodeoito.com/wp-content/uploads/2016/07/944.jpg"
-},
-{
-    id: 24,
-    autora: "Maria de Lourdes Ramos Krieger",
-    capa:"http://nodeoito.com/wp-content/uploads/2016/07/3163532.jpg"
+    id: 20,
+    autora: "Carmem Lúcia Campos",
+    capa:"https://turinha-static.pkds.it/blog/production/2018/06/11114829/Carmen-L%C3%BAcia-Campos-300x300.jpg"
 }
 ]
 export default autoras

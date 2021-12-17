@@ -10,12 +10,12 @@ const contacaoDeHistorias = () => {
     <>
       <Menu />
       <Header image={ImagemContacao}></Header>
-      <p>
-        ....
-      </p>
-      <p>
-        ....
-      </p>
+      <div className="texto">
+      <h1 className="textovisualfinalContacao">
+     .......          .......
+      </h1>
+     
+      </div>
       <Footer />
     </>
   )
