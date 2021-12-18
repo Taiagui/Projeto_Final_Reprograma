@@ -46,28 +46,25 @@ const Home = () => {
      .......     Projeto Faz ela ir mais longe     .......
       </h1>
       <p className="textovisual"> 
-      O Projeto “Faz ela ir mais longe” se propõe a incentivar crianças e suas famílias a nutrir o amor pela leitura, desenvolvendo habilidades socioemocionais, imaginação e criatividade desde cedo nos jovens leitores, além da reflexão crítica e reconhecimento público sobre a produção de mulheres escritoras tão importantes para a literatura brasileira.
+      Quantas escritoras na literatura infantil são lembradas? Por que estas autoras seguem invisibilizadas? A desigualdade entre homens e mulheres nesse campo é gritante. Somos muito mais familiarizados com escritores do que com escritoras.
       </p>
       <p className="textovisual">
-      A importância educativa do ato de ler, a partir do acesso a livros escritos por mulheres brasileiras que produzem conteúdo infanto-juvenil relevantes, poderá ser um elo no fortalecimento de uma rede de famílias interligadas pela leitura.
+      O Projeto “Faz ela ir mais longe” objetiva construir um ambiente propício à leitura especialmente entre a família através de obras de escritoras brasileiras.
       </p>
       <p className="textovisual">
-      Quantas mulheres escritoras na literatura infantil são lembradas? Quantas ainda seguem invisibilizadas? A desigualdade de gênero no mercado em geral, e mais especificamente no mercado de livros, é alarmante.  Somos muito mais familiarizados com nomes de autores homens do que de mulheres e isto não é por ausência destas na produção de histórias do mundo infanto-juvenil. 
+      O estímulo à leitura através de obras infanto-juvenis escritas por mulheres brasileiras, poderá para além de fomentar a leitura, proporcionar uma rede de empoderamento feminino entre as famílias.  
       </p>
       <p className="textovisual">
-      Podemos citar algumas destas mulheres amplamente reconhecidas no circuito da literatura  infantil, como a premiada escritora carioca Ana Maria Machado, a paulista Ruth Rocha, Eva Furnari, Clarice Lispector, Angela Lago e outras tantas escritoras extremamente competentes e necessárias. 
+      Temos que ressaltar escritoras como Ana Maria Machado, Ruth Rocha, Eva Furnari, Clarice Lispector, Angela Lago e outras tantas escritoras extremamente necessárias. 
       </p>
       <p className="textovisual">
-      Se autoras reconhecidas e já consolidadas com seus trabalhos não são lembradas por nossa memória coletiva, é ainda difícil citar os nomes de tantas outras mulheres contadoras de histórias, escritoras independentes em pequenas editoras ou mesmo aquelas que produzem “na raça” do seu próprio bolso os livros e histórias que encantam e transformar a nossa forma de ver o mundo.
+      A prática da leitura e da contação de histórias como estratégia de fortalecimento de vínculos familiares e coletivos entre criança-família-comunidade ajuda no processo de síntese do aprendizado e compreensão de mundo através das histórias.
       </p>
       <p className="textovisual">
-      A prática da leitura e da contação de histórias como estratégia de fortalecimento de vínculos familiares e coletivos entre criança-família-comunidade e incentivar o ato de ler, escrever, desenhar, pintar, etc, ajuda no processo de síntese do aprendizado e compreensão de mundo através das histórias. 
+      Acreditamos que o fomento à leitura é uma prática educativa emancipadora contribuindo diretamente em várias dimensões de aprendizado, compreendendo que estes livros podem e devem ser acessados com mais facilidade e frequência, já que, infelizmente, contamos com poucas bibliotecas ou nenhuma estrutura parecida nos bairros periféricos e mais vulneráveis da cidade. 
       </p>
       <p className="textovisual">
-      Acreditamos que fomentar a leitura é uma prática educativa positiva e emancipadora de sociabilidade entre as crianças, sua família, sua comunidade e o mundo que os certa, além de contribuir diretamente em várias dimensões de aprendizado, no desenvolvimento infantil em todos os estágios, compreendendo que estes livros podem e devem ser acessados com mais facilidade e frequência, já que, infelizmente, contamos com poucas bibliotecas ou nenhuma estrutura parecida nos bairros periféricos e mais vulneráveis da cidade.
-      </p>
-      <p className="textovisual">
-      É por tudo isto que o projeto “Faz ela ir mais longe” acredita que fomentar a leitura é uma prática educativa positiva e emancipadora e pretende contribuir diretamente na vida de cada criança e família, que muitas vezes só precisa de uma oportunidade de acesso e incentivo à leitura.
+      Dessa forma o projeto “Faz ela ir mais longe” impulsionará a leitura contribuindo diretamente com o desenvolvimento social de crianças e famílias além de diminuir a desigualdade de gênero que marca o mercado de livros infantis.
       </p>
       <h1 className="textovisualfinal">
       Participe e contribua para um mundo melhor!
