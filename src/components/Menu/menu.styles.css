@@ -31,3 +31,18 @@ ul li{
   text-align: left;
   }
 }
+
+@media(max-width: 450px){
+  .navbargeral {
+  display: block;
+  text-align: left;
+  }
+
+  ul li {
+  background-color: rgb(99, 82, 197);
+  list-style: none;
+  margin: 12px;
+  padding: 5px;
+  border: 2px solid rgb(99, 82, 197);
+  }
+}

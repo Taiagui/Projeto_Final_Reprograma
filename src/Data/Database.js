@@ -112,7 +112,7 @@ const autoras = [
 {
     id: 23,
     autora: "Angela Lago",
-    capa:"https://s2.glbimg.com/0VlwGunZPG293_AWdA6231XRi-Y=/0x0:1080x1920/1080x1920/middle/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/1/y/fnGg8lTk6uZtxFAAd1vg/design-sem-nome-50-.png"
+    capa:"https://www.flip.org.br/wp-content/uploads/2019/09/10427244712-733-640x900.jpeg"
 }
 ]
 export default autoras

@@ -58,3 +58,13 @@
     padding: 10% 10% 30% 25%;
     }
     }
+
+    @media(max-width: 450px){
+  
+      .blocoAutoras {
+      width: 311px;
+      height: 463px;
+      margin: -15px;
+      cursor: inherit;
+      }
+      }
